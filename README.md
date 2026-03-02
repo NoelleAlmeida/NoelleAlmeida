@@ -3,7 +3,7 @@
 Estou começando minha jornada na área de desenvolvimento e construindo meus primeiros projetos com foco em full-stack.
 
 ## Atualmente estudando
-- JavaScript
+- Typescript
 - React
 - Vite
 - Tailwind CSS
