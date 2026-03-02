@@ -12,4 +12,4 @@ Estou começando minha jornada na área de desenvolvimento e construindo meus pr
 - **ToDo App** — gerenciador de tarefas com adicionar, concluir, remover e visualizar detalhes
 
 ## Objetivo
-Conseguir minha primeira oportunidade na área de tecnologia e evoluir projeto por projeto 🚀
+Conquistar minha primeira oportunidade na área de tecnologia e evoluir projeto por projeto 🚀
